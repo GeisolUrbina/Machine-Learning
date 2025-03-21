@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition - Machine Learning
+# Handwritten Digit Recognition - ML
 Detta projekt handlar om att känna igen handskrivna siffror med hjälp av MNIST-datasettet. Jag har använt tre olika maskininlärningsmodeller för att lösa detta problem:
 
 - Logistic Regression (Logistik regression)
