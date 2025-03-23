@@ -1,12 +1,15 @@
 # Handwritten Digit Recognition - ML
-Detta projekt handlar om att känna igen handskrivna siffror med hjälp av MNIST-datasettet. Jag har använt tre olika maskininlärningsmodeller för att lösa detta problem:
+Detta projekt syftar till att jämföra tre olika maskininlärningsmodeller för handskriven sifferigenkänning med hjälp av MNIST-datasetet. De valda modellerna är:
 
 - Logistic Regression (Logistik regression)
 - Random Forest
 - Support Vector Classifier (SVC)
   
-Det var SVC-modellen (Support Vector Classifier) som presterade bäst när det gäller noggrannhet på MNIST-datasettet.
+SVC-modellen (Support Vector Classifier) presterade bäst när det gäller noggrannhet på MNIST-datasettet.
 
+# Dataset
+- Dataset: MNIST (Modified National Institute of Standars and Technology)
+- Antal bilder: 70 000 uppdelar i 60 000 bilder för träning och 10 000 för testning.
 # Prestanda
 Här är en sammanfattning av prestandan för varje modell:
 
